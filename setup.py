@@ -7,7 +7,7 @@ setup(
         author_email="<melissayork_8@hotmail.com>",
         description="'Un paquete de Python para algoritmos de optimización univariables y multivariables'",
         packages=find_packages(),
-        install_requires=[''], 
+        install_requires=['numpy', 'math', 'random'],
         
         keywords=['python', 'primer paquete'],
         classifiers= [
