@@ -1,10 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-       #
         name="paqueteoptimizacion_york", 
         version="0.1",
-        author="MelissaYork",
+        author="Melissa York",
         author_email="<melissayork_8@hotmail.com>",
         description="'Un paquete de Python para algoritmos de optimización univariables y multivariables'",
         packages=find_packages(),
